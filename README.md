@@ -1,4 +1,5 @@
-# Fluttergram
+# Funncont
+A New try to get old instagram back by making new instagram. I am taking fluttergram project for new version of instagram. it's really nice. I will give all the credits and legal terms to fluttergram developer after some time because i don't have time to see all those things now. i have ony one night and i have to improve this project and upload it at playstore as the official app of funncont trust me. it is not going to be the commericial app of funncont. when i start building commericial app of funncont i will give the credits of fluttergram developer for his great work and development
 A working Instagram clone written in Flutter using Firebase / Firestore
 
 # Demo
